@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "商城",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "recommend": "/components/Recommend/index",
+    "cate-list": "/components/CateList/index"
+  }
+}
